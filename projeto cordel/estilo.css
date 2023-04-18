@@ -17,7 +17,10 @@
 
 html, body {
     min-height: 100vh;
-    background-color: darkgray;
+    width: 70vw;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 1px 3px rgba(233, 231, 231, 0.459);
     font-family: var(--font1);
 }
 
